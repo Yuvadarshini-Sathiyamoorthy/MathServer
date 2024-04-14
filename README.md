@@ -135,7 +135,8 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![alt text](op1.jpg)
+![op1](https://github.com/Yuvadarshini-Sathiyamoorthy/MathServer/assets/93482485/8c3a7714-2181-449d-a78f-b8186d3360ff)
+
 
 ## HOMEPAGE:
 ![alt text](op2.jpg)
